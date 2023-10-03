@@ -67,6 +67,7 @@ printing verticlly upward and printing horizontolly in 3d printing : Vertical su
 ## Contour offset path : It is lso known as offsetting or offsetting contours, is a preprocessing technique used in 3D printing to create multiple concentric copies of a 2D or 3D shape with increasing or decreasing dimensions
 
 ## Grid path planning : It is also known as grid infill or grid pattern, is a technique used in 3D printing to fill the interior of a 3D model with a grid-like pattern.
+
 ### Name: M UDHAYA SANKARAN
 ### Register Number: 212222110051
 

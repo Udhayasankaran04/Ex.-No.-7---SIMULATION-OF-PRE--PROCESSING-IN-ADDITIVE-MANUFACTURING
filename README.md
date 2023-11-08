@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 3|10|2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -67,6 +67,10 @@ printing verticlly upward and printing horizontolly in 3d printing : Vertical su
 ## Contour offset path : It is lso known as offsetting or offsetting contours, is a preprocessing technique used in 3D printing to create multiple concentric copies of a 2D or 3D shape with increasing or decreasing dimensions
 
 ## Grid path planning : It is also known as grid infill or grid pattern, is a technique used in 3D printing to fill the interior of a 3D model with a grid-like pattern.
+
+## OUTPUT
+![image](https://github.com/Udhayasankaran04/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393933/42693336-e25b-4c71-88c7-58a9982ca512)
+
 
 ### Name: M UDHAYA SANKARAN
 ### Register Number: 212222110051
